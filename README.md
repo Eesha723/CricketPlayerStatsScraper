@@ -10,7 +10,7 @@ This project scrapes data from the Pakistan Cricket Players section on the [Spor
 - [Example Output](#example-output)
 
 ## Overview
-The project involves scraping data from the following link: [Pakistan Cricket Players](https://sportslumo.com/cricket/players/country/pakistan/). At the time of writing, there are four pages of player data. The tasks include:
+The project involves scraping data from the following link: [Pakistan Cricket Players](https://sportslumo.com/cricket/players/country/pakistan/) via Beautiful Soup Library. At the time of writing, there are four pages of player data. The tasks include:
 
 1. Scraping data regarding each player of the Pakistan cricket team.
 2. Transforming the scraped data into a set format with specific headers.
